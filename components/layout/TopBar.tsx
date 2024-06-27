@@ -2,7 +2,7 @@
 //app imports
 import { navLinks } from "@/lib/constants";
 
-// global imports
+// global imports 
 import { UserButton } from "@clerk/nextjs";
 import Image from "next/image";
 import Link from "next/link";
